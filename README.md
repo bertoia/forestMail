@@ -9,3 +9,6 @@
 
 ### Workflow Casestudies
 * https://github.com/ChenglongChen/Kaggle_CrowdFlower
+
+## Scripts
+* https://www.kaggle.com/darraghdog/springleaf-marketing-response/explore-springleaf
