@@ -5,6 +5,7 @@
 * https://en.wikipedia.org/wiki/Ensemble_learning
 
 ### Libraries
+* http://topepo.github.io/caret/index.html
 * https://github.com/dmlc/xgboost
 
 ### Workflow Casestudies
