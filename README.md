@@ -9,6 +9,7 @@
 * https://github.com/dmlc/xgboost
 
 ### Workflow Casestudies
+* http://blog.kaggle.com/category/dojo/
 * https://github.com/ChenglongChen/Kaggle_CrowdFlower
 
 ### Scripts
